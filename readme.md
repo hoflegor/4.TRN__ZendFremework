@@ -1,4 +1,3 @@
 # ZendFremework 1 training
 
-####
-prosty system do katalogowania kolekcji muzyki
+* #### Prosty system do katalogowania kolekcji muzyki
