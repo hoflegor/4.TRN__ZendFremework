@@ -2,4 +2,6 @@
 
 * #### Prosty system do katalogowania kolekcji muzyki
 
-> Samoszkolenie na potrzeby pracy 
+> samodzielna nauka na potrzeby pracy 
+
+> open learning for the needs of job
